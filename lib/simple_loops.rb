@@ -4,6 +4,6 @@ def loop_message_five_times(message)
   message = ["Hi", "hello", "wiwi", "hola", "ohana"]
   while count < (message) do
     puts message(counter)
-    count += 1 
+    count += 5
   end
 end 
