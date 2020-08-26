@@ -1,7 +1,7 @@
 # Write your methods here
 def loop_message_five_times(message)
   count = 0 
-  message = ["Hi", "hello", "wiwi", "hola", "ohana"]
+  message = ["Hello World"]
   while message[count] do
     puts message[count]
     count += 5
